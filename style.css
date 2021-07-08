@@ -1,0 +1,58 @@
+body {
+  background-image: url(images/massivespread.jpg);
+  margin: 0 0 0 0;
+  font-family: monospace;
+}
+
+/* top grey bar */
+.top-bar {
+  width: 100%;
+  height: 3em;
+  background-color: rgba(169, 169, 169, 0.39);
+  position: absolute;
+  top: 0%;
+}
+
+/* list items */
+li {
+  display: inline-block;
+  color: white;
+  font-size: 1.2em;
+  float: right;
+  margin-right: 5%;
+  
+}
+
+/* The Bistro */
+.name {
+  color: white;
+  font-size: 6em;
+  margin-left: 100px;
+  padding-top: 2em;
+}
+
+/* Eatery Bar Venue */
+.info {
+  color: white;
+  font-size: 1.5em;
+  margin-left: 15%;
+  
+
+}
+
+/* Telephone Book */
+.contact {
+  font-size: 1.5em;
+  color: white;
+  margin-left: 100px;
+  position: absolute;
+  bottom: 20%;
+}
+
+.book {
+margin-top: 0.5em;
+padding: 5px;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+font-size: 0.6em;
+}
